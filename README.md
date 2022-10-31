@@ -5,7 +5,7 @@ Select both WildNorth files by clicking while holding down control, and then rig
 select "Extract Here".
 
 If you have any trouble with this, you can also find the game on google drive at this link:
-https://drive.google.com/file/d/10wEDc24rocnwUVdou9y1YHduZVsoZMbi/view?usp=share_link
+https://drive.google.com/file/d/1PHkvgWbzQT5FJZZNYC6mG0U0yv4Juy2m/view?usp=share_link
 
 Then double click WildNorth.exe
 
